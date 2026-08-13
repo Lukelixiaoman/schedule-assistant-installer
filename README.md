@@ -10,12 +10,12 @@
 
 ```bash
 # macOS / Linux
-git clone https://github.com/lukexiaoman/schedule-assistant-installer.git && bash "schedule-assistant-installer/安装-苹果Mac双击我.command"
+git clone https://github.com/Lukelixiaoman/schedule-assistant-installer.git && bash "schedule-assistant-installer/安装-苹果Mac双击我.command"
 ```
 
 ```powershell
 # Windows
-git clone https://github.com/lukexiaoman/schedule-assistant-installer.git && powershell -NoProfile -ExecutionPolicy Bypass -File "schedule-assistant-installer\install_helper.ps1"
+git clone https://github.com/Lukelixiaoman/schedule-assistant-installer.git && powershell -NoProfile -ExecutionPolicy Bypass -File "schedule-assistant-installer\install_helper.ps1"
 ```
 
 ### 方式二：ZIP 本地安装（无 Git 或无网络时）
